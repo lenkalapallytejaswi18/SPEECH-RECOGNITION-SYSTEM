@@ -16,4 +16,6 @@ In the code, a function called transcribe_audio() is used to handle the listenin
 
 This project is especially helpful for students, teachers, writers, and anyone who wants to convert voice into text easily. It can also be useful for creating subtitles, taking voice notes, or helping people with disabilities who have difficulty typing. Since it uses Google’s API, it’s accurate most of the time, as long as the speech is clear and in a supported language. Overall, the Speech Recognition System is a great example of how technology can make life easier by turning spoken words into written text in a fast and friendly way. It uses simple code, helpful libraries, and a clean web interface to make voice-to-text conversion available to everyone with just one click.
 
+*OUTPUT* :
 
+[Image](https://github.com/user-attachments/assets/d84e677b-2c83-4522-9d26-4d39699ad132)
