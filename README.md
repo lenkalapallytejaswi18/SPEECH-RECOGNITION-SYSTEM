@@ -18,4 +18,4 @@ This project is especially helpful for students, teachers, writers, and anyone w
 
 *OUTPUT* :
 
-[Image](https://github.com/user-attachments/assets/d84e677b-2c83-4522-9d26-4d39699ad132)
+![Image](https://github.com/user-attachments/assets/d84e677b-2c83-4522-9d26-4d39699ad132)
